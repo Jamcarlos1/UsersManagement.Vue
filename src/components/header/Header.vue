@@ -1,7 +1,7 @@
 <script setup>
 import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
-import avatar5 from "../assets/avatar5.png";
+import avatar5 from "../../assets/avatar5.png";
 </script>
 <template>
   <div>

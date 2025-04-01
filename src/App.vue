@@ -1,7 +1,7 @@
 <script setup>
-import Header from "./components/Header.vue";
-import UsersHeader from "./components/UsersHeader.vue";
-import UsersForm from "./components/UsersForm.vue";
+import Header from "./components/header/Header.vue";
+import UsersHeader from "./components/section/UsersHeader.vue";
+import UsersForm from "./components/section/UsersForm.vue";
 </script>
 
 <template>
